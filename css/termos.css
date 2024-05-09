@@ -1,0 +1,19 @@
+.termos-container {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left: 24px;
+}
+
+.termos-container h2 {
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.termos-container p + h2 {
+  margin-top: 40px;
+}
+
+.termos-container p {
+  max-width: 75ch;
+  margin-bottom: 24px;
+}
